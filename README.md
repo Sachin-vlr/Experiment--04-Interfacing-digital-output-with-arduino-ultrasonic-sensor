@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
@@ -114,5 +114,5 @@ void loop()
 			Average error = sum/ number of readings 
 ### RESULTS
 
-
+Arduino uno is interfaced with Ultrasonic sensor and output values are indicated on a graph.
  
